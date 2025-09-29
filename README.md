@@ -8,5 +8,5 @@
   - Project URL: https://raptorff.github.io/HTML-Project---My-Resume/
 
 **What I learned**
-- Create and style a multi-page website using only HTML;
-- Add my website to GitHub and publish website using GitHub pages;
+- Creating and styling a multi-page website using only HTML;
+- Uploading website to GitHub and publishing the website using GitHub pages;
